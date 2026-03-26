@@ -19,7 +19,7 @@ function exibir() {
     texto1.textContent = "Astronalta"
     // 
     const imagem1 = document.createElement('img')
-    imagem1.src = '../img/image1.png'
+    imagem1.src = 'img/image1.png'
     // 
     div1.appendChild(texto1)
     div1.appendChild(imagem1)
@@ -30,7 +30,7 @@ function exibir() {
     texto2.textContent = "Jupter"
     // 
     const imagem2 = document.createElement('img')
-    imagem2.src = '../img/image2.png'
+    imagem2.src = 'img/image2.png'
     // 
     div2.appendChild(texto2)
     div2.appendChild(imagem2)
@@ -41,7 +41,7 @@ function exibir() {
     texto3.textContent = "poeira cósmica"
     // 
     const imagem3 = document.createElement('img')
-    imagem3.src = '../img/image3.png'
+    imagem3.src = 'img/image3.png'
     // 
     div3.appendChild(texto3)
     div3.appendChild(imagem3)
